@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PersonalOrganizer</string>
+    <string name="facebook_app_id">259479438538817</string>
+    <string name="fb_login_protocol_scheme">fb259479438538817</string>
+</resources>
